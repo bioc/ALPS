@@ -1,6 +1,6 @@
 Package: ALPS
 Title: AnaLysis routines for ePigenomicS data
-Version: 1.5.0
+Version: 1.5.1
 Author: Venu Thatikonda, Natalie Jäger
 Maintainer: Venu Thatikonda <thatikonda92@gmail.com>
 Description: The package provides analysis and publication quality visualization routines for genome-wide 
@@ -50,3 +50,4 @@ Suggests:
     testthat
 biocViews: Epigenetics, Sequencing, ChIPSeq, ATACSeq, Visualization, Transcription, HistoneModification
 VignetteBuilder: knitr
+PackageStatus: Deprecated
